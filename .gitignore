@@ -1,3 +1,5 @@
 */datasets/*
 **.gz
 tensorflow-text/*
+*/saved_model/*
+**.tflite
